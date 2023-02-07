@@ -33,12 +33,9 @@ Hello, I am Berkay. I have a great interest in technology and computers since I 
 </div>
 
 ## :fire: My Stats 
-<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=BerkayGulen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BerkayGulen&layout=compact&langs_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats" />
-  
-  </div>
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkayGulen&theme=dracula&layout=compact&langs_count=6)
+ 
 
 
 
